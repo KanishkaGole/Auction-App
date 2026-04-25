@@ -65,6 +65,6 @@ This repository contains an auction application with a Node.js backend server, s
 - `myenv/` - local Python virtual environment (ignored)
 - `node_modules/` - Node.js dependencies (ignored)
 ## Contributors
-- Kanishka Gole <kanishka.gole@acc.ltd>
+- Kanishka Gole <kanishkag2020@gmail.com>
 ## License
 MIT
